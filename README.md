@@ -11,6 +11,7 @@ Fichiers : `index.html` (site), `mentions-legales.html`, `confidentialite.html`,
 4. Deploy.
 
 ## Contacts intégrés
+- Formulaire de rendez-vous → e-mail automatique à `livelec55@gmail.com` via FormSubmit (constante `MAIL_TO` dans `index.html`). **Première activation obligatoire** : faire un premier envoi de test depuis le site en ligne, puis cliquer sur le lien « Activate » dans l'e-mail reçu par Livio (vérifier les spams). Ensuite, chaque demande arrive directement dans sa boîte.
 - Instagram : @livelec55 (constante `INSTAGRAM_HANDLE` dans `index.html`).
 
 ## Nom de domaine
